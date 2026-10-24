@@ -1,0 +1,13 @@
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+## Khoá và dữ liệu thử nghiệm - KHÔNG đưa lên GitHub
+*.pem
+*.key
+*.enc
+*.dec
+*.bin
